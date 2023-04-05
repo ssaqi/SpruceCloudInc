@@ -1,0 +1,12 @@
+.line{
+
+    width: 220px;
+    height: 1px;
+    background-color: grey;
+    margin: 30px;
+}
+
+.inp{
+
+    width: 700px;
+}
